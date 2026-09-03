@@ -629,7 +629,8 @@ https://github.com/wjs0951467-wq/database-repository/blob/main/assignments/chapt
 내 실제 제출 URL:
 
 ```text
-https://github.com/wjs0951467-wq/database-repository
+내 실제 제출 URL:
+https://github.com/wjs0951467-wq/database-repository/blob/main/assignments/chapter01/chapter01_answer.md
 ```
 
 > LMS에는 위 **본인 저장소의 `chapter01_answer.md` 파일 URL 하나**를 제출합니다.
